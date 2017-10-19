@@ -1,0 +1,10 @@
+.biography{
+background-color: red;
+width: 70%;
+display: inline-block;
+}
+.summary{
+  background-color: green;
+  border: solid;
+  display: inline-block;
+}
